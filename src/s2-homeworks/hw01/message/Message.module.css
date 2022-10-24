@@ -1,0 +1,56 @@
+.wrapper {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+}
+
+.message {
+    color: white;
+}
+
+.imageAndText {
+    display: flex;
+    align-items: flex-end;
+}
+
+.text:after {
+}
+
+.imageAndText img {
+
+}
+
+.text {
+    min-width: 100px;
+    max-width: 500px;
+    background-color: #0066CC;
+    position:relative;
+    border-radius: 10px 10px 0 10px
+}
+
+.angle {
+    width: 15px;
+    height: 15px;
+    background: radial-gradient(circle at right top, rgba(0, 0, 0, 0) 15px, #0066CC 0);
+}
+
+.name {
+    font-weight: bold;
+    padding-right: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.messageText {
+    padding-left: 10px;
+    white-space: pre-wrap;
+    margin-bottom: 2px;
+}
+
+.time {
+    color: black;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 10px;
+    margin-right: 6px;
+}
