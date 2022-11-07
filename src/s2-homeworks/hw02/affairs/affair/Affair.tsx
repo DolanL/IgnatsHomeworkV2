@@ -26,9 +26,9 @@ function Affair(props: AffairPropsType) {
             <div id={'hw2-name-' + props.affair._id} className={nameClass}>
                 {props.affair.name}
             </div>
-            <div id={'hw2-priority-' + props.affair._id}>
-                {props.affair.priority}
-            </div>
+            {/*<div id={'hw2-priority-' + props.affair._id}>*/}
+            {/*    {props.affair.priority}*/}
+            {/*</div>*/}
 
             <button
                 id={'hw2-button-delete-' + props.affair._id}
