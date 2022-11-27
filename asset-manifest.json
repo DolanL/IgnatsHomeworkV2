@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/IgnatsHomeworkV2/static/css/main.91522d4a.css",
-    "main.js": "/IgnatsHomeworkV2/static/js/main.cc7baf3c.js",
+    "main.css": "/IgnatsHomeworkV2/static/css/main.581d1f74.css",
+    "main.js": "/IgnatsHomeworkV2/static/js/main.08ea9a0f.js",
     "static/js/787.66cb4309.chunk.js": "/IgnatsHomeworkV2/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/IgnatsHomeworkV2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/closeOutline.svg": "/IgnatsHomeworkV2/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
+    "static/media/editIcon.svg": "/IgnatsHomeworkV2/static/media/editIcon.0a0cefd2190b593b4f76bb1a5afe0c1f.svg",
     "static/media/checked.svg": "/IgnatsHomeworkV2/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/IgnatsHomeworkV2/index.html",
-    "main.91522d4a.css.map": "/IgnatsHomeworkV2/static/css/main.91522d4a.css.map",
-    "main.cc7baf3c.js.map": "/IgnatsHomeworkV2/static/js/main.cc7baf3c.js.map",
+    "static/media/burger.svg": "/IgnatsHomeworkV2/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
+    "main.581d1f74.css.map": "/IgnatsHomeworkV2/static/css/main.581d1f74.css.map",
+    "main.08ea9a0f.js.map": "/IgnatsHomeworkV2/static/js/main.08ea9a0f.js.map",
     "787.66cb4309.chunk.js.map": "/IgnatsHomeworkV2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91522d4a.css",
-    "static/js/main.cc7baf3c.js"
+    "static/css/main.581d1f74.css",
+    "static/js/main.08ea9a0f.js"
   ]
 }
